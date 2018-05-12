@@ -1,0 +1,38 @@
+_repo: The-Fighting-Starkleysor-The-test-of-courage_44185
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodridge Roberts, Theodore
+    aliases:
+    - Roberts, T. G. (Theodore Goodridge)
+    - Roberts, Theodore Goodridge
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+description: ''
+gutenberg_issued: '2013-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Fighting Starkleys; or, The Test of Courage
+url: http://www.gutenberg.org/ebooks/44185
